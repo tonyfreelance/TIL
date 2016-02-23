@@ -4,16 +4,18 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 
-_344 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
 # Categories
 - [Ideas](#ideas)
+- [Javascripts](#javascript)
+- [Sails.js](#sails.js)
 
 ---
 # Ideas
-- [Write down 1 thing I leraned today (TIL)]()
+- [Write down 1 thing I leraned today (TIL)](/ideas/til.md)
 
 
 # License
