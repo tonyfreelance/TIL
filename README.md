@@ -10,12 +10,15 @@ _1 TILs and counting..._
 
 # Categories
 - [Ideas](#ideas)
-- [Javascripts](#javascript)
+- [Javascript](#javascript)
 - [Sails.js](#sails.js)
 
 ---
 # Ideas
 - [Write down 1 thing I leraned today (TIL)](/ideas/til.md)
+
+# Javascript
+- [Easiest way to extract unix timestamp in JS](/javascript/unix-timestamp.md)
 
 
 # License
