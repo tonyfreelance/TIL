@@ -9,11 +9,15 @@ _1 TILs and counting..._
 ---
 
 # Categories
+- [Code Tips](#code)
 - [Ideas](#ideas)
 - [Javascript](#javascript)
 - [Sails.js](#sails.js)
 
 ---
+# Code Tips 
+- [Plan and organize things before coding](/code/organize.md)
+
 # Ideas
 - [Write down 1 thing I leraned today (TIL)](/ideas/til.md)
 
